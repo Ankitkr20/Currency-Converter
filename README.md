@@ -20,7 +20,7 @@ currency-converter/
 └── README.md # Project documentation
 
 ## 📷 Demo
-
+https://ankitkr20.github.io/Currency-Converter/
 
 ## 🛠️ Technologies Used
 HTML5 – Structure and layout
